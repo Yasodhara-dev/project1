@@ -1,1 +1,4 @@
 # my first commit
+.vscode/*
+config/*
+.sfdx/*
